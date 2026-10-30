@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujo-eiso-shui",
  "yomi": "ろくじょうえいそうしゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "嘉永元年（1848）12月跋",
+  "author": "小沢蘆庵（1723〜1801）",
+  "desc": "『六帖詠草』に漏れた蘆庵の歌の拾遺。小川萍流が刊行を果たさずに没したため、子の萍翁が板に彫ったと跋にいう。"
+ },
  "editions": [
   {
    "pid": "993384",
