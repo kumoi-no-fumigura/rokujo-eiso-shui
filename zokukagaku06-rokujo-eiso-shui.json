@@ -22,12 +22,12 @@
    "url": "https://dl.ndl.go.jp/pid/993384"
   }
  ],
- "status": "未校正（NDL 全文 OCR のまま。ルビ・柱・誤認識を含む）",
+ "status": "下校正済み",
  "license": {
   "text": "CC0 1.0"
  },
  "translation": {
-  "count": 10
+  "count": 19
  },
  "blocks": [
   {
@@ -4374,6 +4374,7 @@
    "genre": ""
   }
  ],
+ "proofread_at": "2026-11-23",
  "catalog": {
   "work_id": "zokukagaku06-rokujo-eiso-shui",
   "work": "六帖詠草拾遺",
@@ -4386,7 +4387,7 @@
   "poems": 330,
   "editions": 1,
   "updated": "2026-11-23",
-  "updated_at": "2026-11-23T20:02:52+09:00",
-  "yaku": 10
+  "updated_at": "2026-11-23T20:34:15+09:00",
+  "yaku": 19
  }
 }
